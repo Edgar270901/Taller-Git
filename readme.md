@@ -18,3 +18,21 @@ to relational databases that allows you to specify various types of
 operations on them.
 ~~~
 
+SQL has two languages ​​that allow us to carry out our activities in
+our DB. 
+
+The data definition language
+responsible for defining the structure of database objects. there are four
+basic operations with which we can work: CREATE, ALTER, DROP and
+TRUNCATE. 
+
+[DDL](SQL.md)
+
+The data manipulation language is
+that allows us to manipulate the database: SELECT, INSERT, UPDATE and DELETE.
+
+[DML](SQL.md)
+
+These are some of the simplest things you should know, soon I will continue updating this document to enter more information...
+
+
