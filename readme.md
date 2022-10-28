@@ -7,6 +7,8 @@ First... What is a database?
 System of maintenance of registers based on computers, that is system 
 whose a general purpose is record and maintain information.  
 ~~~
+To learn more about oracle databases specifically, click here. [Database Oracle](https://www.oracle.com/mx/database/what-is-database/#link1).
+
 
 ## SQL
 
